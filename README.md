@@ -1,5 +1,5 @@
 # uno
-A collection of basis module source code files to be included in future Arduino projects.
+A collection of basis modules and source code files to be included in future Arduino projects.
 
 Included bases:
 
