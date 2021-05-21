@@ -1,5 +1,5 @@
-/LCD/src/main.cpp
-/StartLights/src/main.cpp
+/LCD/
+/StartLights/
 
 */.pio/
 *platformio.ini
